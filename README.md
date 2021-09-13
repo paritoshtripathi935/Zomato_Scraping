@@ -1,6 +1,6 @@
 # Web scraping Of Top Restaurants in Banglore from Zomato
 
-# Table of Contents
+## Table of Contents
 1. Why collecton?
 2. Objective
 3. Introduction
